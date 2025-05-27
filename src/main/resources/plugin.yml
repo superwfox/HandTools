@@ -1,0 +1,4 @@
+name: HandTools
+version: '1.0'
+main: sudark2.Sudark.handTools.HandTools
+api-version: '1.21'
