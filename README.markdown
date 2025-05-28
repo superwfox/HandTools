@@ -17,14 +17,7 @@ A lightweight Minecraft plugin for Bukkit/Spigot servers that enhances gameplay 
 - **Minecraft Server**: Bukkit, Spigot, or Paper (compatible with versions 1.13+)
 - **Java**: 8 or higher
 - **No additional dependencies required**
-
-## Installation
-
-1. Download the latest `HandTools.jar` from the [Releases](https://github.com/yourusername/handtools/releases) page.
-2. Place the `HandTools.jar` file in your server's `plugins` folder.
-3. Restart your server or use `/reload` to load the plugin.
-4. The plugin will automatically register its event listeners and be ready to use.
-
+  
 ## Usage
 
 ### Sneak-to-Use Tools
@@ -52,29 +45,6 @@ Key features are implemented using:
 - Bukkit's event system (`PlayerToggleSneakEvent`, `InventoryClickEvent`, `InventoryCloseEvent`).
 - A `HashMap` to track active shulker box sessions per player.
 - `BukkitRunnable` for delayed inventory synchronization to ensure smooth operation.
-
-## Contributing
-
-Contributions are welcome! To contribute:
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit them (`git commit -m "Add your feature"`).
-4. Push to your branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
-
-Please ensure your code follows the existing style and includes appropriate comments.
-
-## Issues
-
-If you encounter any bugs or have feature requests, please open an issue on the [GitHub Issues](https://github.com/yourusername/handtools/issues) page.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or support, feel free to open an issue or contact me via [GitHub](https://github.com/yourusername).
 
 ---
 
