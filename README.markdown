@@ -1,5 +1,7 @@
 # HandTools Plugin
 
+## [【让我们说中文！】](https://github.com/superwfox/HandTools/blob/master/README_zh.markdown)
+
 A lightweight Minecraft plugin for Bukkit/Spigot servers that enhances gameplay by allowing players to interact with tools and shulker boxes in a unique way. With **HandTools**, players can sneak (crouch) to open crafting tables, anvils, or shulker boxes directly from their hand, including support for nested shulker boxes (shulker box "doll" functionality).
 
 ## Features
